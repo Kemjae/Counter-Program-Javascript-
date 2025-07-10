@@ -43,12 +43,12 @@ It is just a practice project to help me understand JavaScript and CSS basics.
 
  📂 Project File Structure
 
- /counter-project
+ /Counter-Project
 │
-├── index.html         The HTML file that displays the counter and buttons
-├── style.css          The CSS file for styling the page
-├── script.js          The JavaScript file containing all the logic
-└── README.md          This file you are reading now
+├── index.html         
+├── style.css          
+├── script.js          
+└── README.md         
 
 
 ✨ How to Use
